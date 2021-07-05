@@ -21,7 +21,7 @@ Está seção detalha o planejamentos do processo de realização dos Testes de 
 |**Requisitos Associados**|RF-004 - O site deverá ter seções com explicações sobre hardware.
 |**Objetivo do teste**|Verificar a presença e qualidade das páginas com explicações sobre hardware.|
 |**Passos**|1 - Acessar o navegador.<br/>2 - Informar o endereço do site.<br/>3 - No menu principal, clicar em "Hardware". <br/>4 - Aguardar a página carregar.|
-|**Critérios de Êxito**|Seção de fácil acesso, abordando os componetnes relevantes e explicando de forma clara.|
+|**Critérios de Êxito**|Seção de fácil acesso, abordando os componentes relevantes e explicando de forma clara.|
 
 |Caso de Teste | CT-04 - Relatório com recomendação feita para o usuário|
 |:--|:--|
@@ -32,14 +32,14 @@ Está seção detalha o planejamentos do processo de realização dos Testes de 
 
 |Caso de Teste | CT-05 - Indicação de preços baixos|
 |:--|:--|
-|**Requisitos Associados**|RF-007 - O site deverá indicar os fornecedores com menor preço para os itens selecionados.
+|**Requisitos Associados**|RF-006 - O site deverá indicar os fornecedores com menor preço para os itens selecionados.
 |**Objetivo do teste**|Verificar se os botões "Comprar" para cada hardware recomendado levam para fornecedores com bons preços.|
 |**Passos**|1 - Acessar o navegador.<br/>2 - Informar o endereço do site.<br/>3 - Escolher uma opção no último popup e aguardar ser redirecionada para a página de recomendações.<br/>4 - Clicar em "Comprar" e esperar ser redirecionado para fornecedores com bons preços.|
 |**Critérios de Êxito**|Ser redirecionado para fornecedores com bons preços sobre o componente de hardware selecionado.|
 
 |Caso de Teste | CT-06 - Fale conosco|
 |:--|:--|
-|**Requisitos Associados**|RF-008 - O site deve fornecer o recurso "Fale Conosco" para possíveis duvidas e feedback.
+|**Requisitos Associados**|RF-007 - O site deve fornecer o recurso "Fale Conosco" para possíveis duvidas e feedback.
 |**Objetivo do teste**|Verificar a presença de formulário para o usuário entrar em contato, de fácil acesso e com validações de campos.|
 |**Passos**|1 - Acessar o navegador.<br/>2 - Informar o endereço do site.<br/>3 - No menu principal, clicar em "Sobre". <br/>4 - Aguardar a página carregar.<br/>5 - Digitar dados e mensagem no formulário à direita da página.|
 |**Critérios de Êxito**|Formulário com campos para identificar o usuário e para digitar uma mensagem, com validações caso algum campo de identificação esteja vazio.|

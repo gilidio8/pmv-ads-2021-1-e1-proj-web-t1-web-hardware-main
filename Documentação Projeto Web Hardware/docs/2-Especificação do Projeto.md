@@ -19,7 +19,7 @@
 | | | |
 | <h3>**Lucas**</h3>| | |
 | <img src=img/personas/lucas.jpg width="90"> | **Idade:** 18 anos. | **Aplicativos:** Word, Excel, Powerpoint. |
-|  **Motivação:** Acompanhar aulas da faculdade e usar o programas específicos de sua área de atuação.| **Frustrações:** Não sabe que tipo de computador necessita, pois antes do transição para aulas remotas usava os computadores da faculdade.|**Historia:** Lucas iniciou a graduação em Administração no último ano. Seus estudos pessoais dependiam de computadores para poucas matérias e ocasiões específicas do curso, e isso era feito nos laboratórios da universidade. Porém com a mudança para o ensino a distância, ele encontra dificuldade para se deslocar para as dependências das instituição de ensino apenas para esses momentos, e por isso quer um computador próprio.|
+|  **Motivação:** Acompanhar aulas da faculdade e usar o programas específicos de sua área de atuação.| **Frustrações:** Não sabe que tipo de computador necessita, pois antes do transição para aulas remotas usava os computadores da faculdade.|**Historia:** Lucas é universitário, e apesar de seu curso não estar diretamente relacionada à área da computação, ele está com dificuldades para realizar todas as atividades apenas com livros físicos e seu celular, e por isso quer um computador básico.|
 
 ## Histórias de Usuários
 
@@ -45,9 +45,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003| O site deverá indicar componentes especifico e de boa qualidade para o usuário.| ALTA |
 |RF-004 | O site deverá ter seções com explicações sobre hardware. | ALTA
 |RF-005| O site irá criar relatórios para registrar o as recomendações personalizadas.| MÉDIA |
-|RF-006| O site automaticamente irá  identificar o hardware do usuário para realizar recomendações.| BAIXA |
-|RF-007| O site deverá indicar os fornecedores com menor preço para os itens selecionados. | BAIXA |
-|RF-008 | O site deve fornecer o recurso "Fale Conosco" para possíveis duvidas e feedback. | BAIXA |
+|RF-006| O site deverá indicar os fornecedores com menor preço para os itens selecionados. | BAIXA |
+|RF-007 | O site deve fornecer o recurso "Fale Conosco" para possíveis duvidas e feedback. | BAIXA |
 
 ### Requisitos não Funcionais
 
@@ -65,5 +64,5 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não poderá ser desenvolvido um módulo de backend |
+|02| O projeto deverá ser feito somente com HTML, CSS e Javascript. Não poderá ser desenvolvido um módulo de backend ou uso de frameworks e bibliotecas. |
 |03| Só poderá utilizar programas gratuitos ou fornecidos pela PUC Minas |

@@ -1,12 +1,18 @@
 # Template padrão do site
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
+O padrão de layout a ser usado pelo site corresponde as imagens abaixo.
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+### Padrão
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+A base das páginas segue com um menu superior, que possui a logo do site e slogan posicionados à esquerda, e os botões para navegação entre as páginas posicionados à direita. O conteúdo principal localiza-se abaixo do menu, e suas subdivisões variam para cada página.
+![Principal](img/wireframes/template1.png)
+
+### Popup
+
+Os popups seguem todos o mesmo padrão, que pode ser visto abaixo.
+![Popup](img/wireframes/template2.png)
+
+### Responsividade
+
+Quando foi necessária adaptação do conteúdo para telas menores, optou-se por posicionar os botões de navegação abaixo da logo e slogan do site, e organizar verticalmente as seções de conteúdo da página.
+![Popup](img/wireframes/template3.png)

@@ -18,6 +18,10 @@ body{
     text-transform: uppercase;
 }
 
+#notice-body {
+    color: #0D1115;
+}
+
 /*#region Menu*/
 
 .menu{

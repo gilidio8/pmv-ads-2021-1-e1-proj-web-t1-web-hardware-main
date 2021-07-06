@@ -658,9 +658,7 @@ border-radius: 5px;
     width: 400px;
     margin-left: 50px;
 }
-header, button{
-    margin-right: 420px;
-}
+
 }
 @media (max-width: 1376px){
 #colun #corsair {
@@ -678,13 +676,71 @@ header, button{
 .aside #amd{
     height: 1100px;
     margin-top: 4550px;
+    visibility: hidden;
     
-    
+}
 
-    
+#slider {
+    width: 800px;
 }
 
 .aside #nvidia {
     margin-right: 1500px;
 }
+}
+
+@media (max-width: 1359px){
+    .aside {
+        visibility: hidden;
+        display: none;
+    }
+
+    #slider {
+        margin-left: 350px;
+    }
+
+    #colun #corsair {
+        position: relative;
+        margin-left: 300px;
+    }
+
+    @media (max-width: 1062px){
+    #slider {
+        margin-left: 170px;
+    }
+
+    #colun #corsair {
+        margin-left: 110px;
+    }
+    
+    }
+
+    @media (max-width: 800px){
+    #slider {
+        width: 250px;
+        margin-left: 20px;
+    }
+
+    #colun #corsair {
+        width: 200px;
+        margin-left: 20px;
+        height: 2900px;
+    }
+
+    #colun #corsair .title {
+        font-size: 30px;
+        margin-left: 20px;
+    }
+    #corsair img {
+    width: 100px;
+    margin-left: 50px;
+    }
+
+    #corsair img.corsair-icon {
+        margin-left:60px;
+        margin-top: 80px;
+        width: 80px;
+    }
+        
+    }
 }

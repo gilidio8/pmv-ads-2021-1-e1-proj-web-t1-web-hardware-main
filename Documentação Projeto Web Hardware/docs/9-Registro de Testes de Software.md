@@ -21,7 +21,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 |:--|:--|
 |**Objetivo do teste**|Verificar a geração de relatório em formato PDF após o usuário ter acesso as recomendações de hardware personalizadas.|
 |**Resultado**|Funcionamento mediano. A geração do PDF ocorre perfeitamente, mas ao fechar a janela, ele não retorna para a aba antiga automaticamente.|
-|**Melhoria**|Votlar automaticamente para aba antiga ao fechar o janela do PDF.|
+|**Melhoria**|Voltar automaticamente para aba antiga ao fechar o janela do PDF.|
 
 |Caso de Teste | CT-05 - Indicação de preços baixos|
 |:--|:--|

@@ -33,5 +33,5 @@ O [Git](https://git-scm.com/), [Github](https://github.com) e [GitKraken](https:
 
 ## Hospedagem
 
-Para hospedagem utilizamos o [000WebHost](https://br.000webhost.com/), por ser gratuito e permitir uma adaptação direta do projeto local para o servidor. O site está hospedado sob o link https://webhardware.000webhostapp.com/html/index.html.
+Para hospedagem utilizamos o [Vercel](https://vercel.com/), onde segundo o site: "Vercel é o fluxo de trabalho ideal para equipes de Front-End". Outro motivo por termos escolhido este recurso para a hospedagem é por ser gratuito. Básicamente o Vercel utiliza o repositório do Github para criar um build da aplicação, fazendo o projeto ficar online. Também tendo a opção de adicionar um ou mais domínios personalizados.
 
